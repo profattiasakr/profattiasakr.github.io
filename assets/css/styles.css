@@ -36,7 +36,7 @@
 [Typography]
 
     [ There are using two different font typography ]
-        Typography 1: Roboto font;
+        Typography 1: amiri font;
         Typography 2: Montserrat font;
 
     [ Other Typography style are same ]
@@ -86,8 +86,8 @@ html {
   -webkit-font-smoothing: antialiased; }
 
 body {
-  font-family: "roboto", sans-serif;
-  font-size: 14px;
+  font-family: "amiri", sans-serif;
+  font-size: 18px;
   font-style: none;
   line-height: 24px;
   font-weight: 500;
@@ -98,7 +98,7 @@ body {
   opacity: 0.9; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "roboto", sans-serif; }
+  font-family: "amiri", sans-serif; }
 
 p {
   opacity: 0.9; }
@@ -936,7 +936,7 @@ body {
     .mh-header .navbar-nav li a {
       border-bottom: 1px solid transparent;
       font-weight: bold;
-      font-family: "roboto", sans-serif;
+      font-family: "amiri", sans-serif;
       font-size: 18px;
       opacity: 1;
       line-height: 30px; }
